@@ -1,10 +1,5 @@
 # All in One Runtimes v1.0
 
-**Production-Ready Windows Runtime Installer**  
-**Author**: Abu Naser Khan  
-**Version**: 1.0 - Production Release  
-**Status**: ✅ Complete and Ready for GitHub
-
 A production-ready Windows batch installer that automatically downloads and installs all essential runtime components. Features smart component detection, automatic admin elevation, and comprehensive error handling.
 
 ## ✨ Key Features
@@ -163,38 +158,8 @@ Some components require a system reboot to complete installation:
 
 The installer automatically detects your system architecture and installs appropriate versions.
 
-## Version History
-
-### 2.5.0 (Current)
-- Production-ready release
-- Enhanced error handling for network failures
-- Disk space verification
-- Improved logging and diagnostics
-- Better permission handling
-- Cleanup error handling
 
 ## License
 
 This project is provided as-is for system administration and deployment purposes.
 
-## Support
-
-For issues or questions:
-1. Check the troubleshooting section above
-2. Review the installation log file
-3. Verify system requirements are met
-4. Try running the installer again
-
-## Contributing
-
-Contributions are welcome. Please ensure:
-- Changes maintain Windows best practices
-- Error handling is comprehensive
-- Logging is detailed and clear
-- No external dependencies are added
-- File count remains minimal
-
----
-
-**Last Updated**: November 2025  
-**Tested On**: Windows 7 SP1, Windows 10, Windows 11
